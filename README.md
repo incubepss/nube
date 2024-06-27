@@ -1,4 +1,5 @@
 # nube
+
 Código y documentación de instalación de servidor en la nube para las distintas aplicaciones que conforman el proyecto.
 
 
@@ -9,6 +10,12 @@ Caprover es un sistema para gestionar la infraestructura (Paas) .para el desplie
 [Sitio oficial Caprover](https://caprover.com/)
 
 [Instalación propia](https://captain.nube.chasqui.site/)
+
+Versión: 1.11.1
+
+El sistema de monitoreo envia notificaciones a telegram utilizando @incubepssbot
+
+Para esto se necesita un token y chatId. [Documentación](https://learn.netdata.cloud/docs/alerts-&-notifications/notifications/centralized-cloud-notifications/telegram)
 
 
 ### Wordpress
