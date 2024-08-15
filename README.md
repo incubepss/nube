@@ -1,11 +1,17 @@
-# nube
+# Nube
 
 Código y documentación de instalación de servidor en la nube para las distintas aplicaciones que conforman el proyecto.
 
+Requisitos del servidor: 
+
+- 2 vCPU's
+- 4 GB RAM
+- 30 GB SSD
+- 1TB mensual de transferencia
 
 # Caprover
 
-Caprover es un sistema para gestionar la infraestructura (Paas) .para el despliegue de aplicaciones.
+Caprover es un sistema para gestionar la infraestructura (Paas) para el despliegue de aplicaciones.
 
 [Sitio oficial Caprover](https://caprover.com/)
 
@@ -90,6 +96,8 @@ http://mysql.nube.chasqui.site/
 
 ### Chasqui
 
-https://chasqui.enlaces.site
+Plataforma de comercio electrónico multi tienda.
 
-proximamente...
+Acceso a multitienda: https://chasqui.enlaces.site
+
+Acceso al panel: https://panel.chasqui.enlaces.site/panel
